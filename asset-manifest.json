@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SunMoonReact/static/css/main.0d794a40.chunk.css",
+    "main.js": "/SunMoonReact/static/js/main.ddff7acd.chunk.js",
+    "main.js.map": "/SunMoonReact/static/js/main.ddff7acd.chunk.js.map",
+    "runtime-main.js": "/SunMoonReact/static/js/runtime-main.4023d23b.js",
+    "runtime-main.js.map": "/SunMoonReact/static/js/runtime-main.4023d23b.js.map",
+    "static/js/2.431551bc.chunk.js": "/SunMoonReact/static/js/2.431551bc.chunk.js",
+    "static/js/2.431551bc.chunk.js.map": "/SunMoonReact/static/js/2.431551bc.chunk.js.map",
+    "index.html": "/SunMoonReact/index.html",
+    "precache-manifest.4b43b38e900ce5b46b06158017f7cbf1.js": "/SunMoonReact/precache-manifest.4b43b38e900ce5b46b06158017f7cbf1.js",
+    "service-worker.js": "/SunMoonReact/service-worker.js",
+    "static/css/main.0d794a40.chunk.css.map": "/SunMoonReact/static/css/main.0d794a40.chunk.css.map",
+    "static/js/2.431551bc.chunk.js.LICENSE.txt": "/SunMoonReact/static/js/2.431551bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4023d23b.js",
+    "static/js/2.431551bc.chunk.js",
+    "static/css/main.0d794a40.chunk.css",
+    "static/js/main.ddff7acd.chunk.js"
+  ]
+}

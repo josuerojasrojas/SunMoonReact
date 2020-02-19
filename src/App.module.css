@@ -1,0 +1,60 @@
+.App {
+  align-items: center;
+  background-color: rgb(236, 236, 236);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.link {
+  color: gray;
+  transition: color 250ms;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+.boxContainer {
+  align-items: center;
+  background-color: rgb(54, 107, 177);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 350px;
+  margin-bottom: 20px;
+  width: 250px;
+  transition: background-color 300ms;
+}
+
+.circle {
+  background-color: rgb(213, 95, 85);
+  border-radius: 100%;
+  height: 200px;
+  margin-top: auto;
+  transition: background-color 300ms;
+  width: 200px;
+}
+
+.rec {
+  background-color: rgb(67, 154, 130);
+  height: 100px;
+  transition: background-color 300ms;
+  width: 100%;
+}
+
+/* darkmode colors */
+.darkMode.boxContainer {
+  background-color: rgb(74, 99, 119);
+}
+
+.darkMode .circle {
+  background-color: rgb(203, 203, 193);
+}
+
+.darkMode .rec {
+  background-color: rgb(48, 83, 77);
+}
